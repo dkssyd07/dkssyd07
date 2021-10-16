@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**dkssyd07/dkssyd07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Dongho Kim
+##  University Of Regina
+##  Software System development
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+C++, Swift, Python, HTML, CSS, JavaScript
+
+
+- University of Regina Software System Development Student (2020~ )
+
+
+## Features
+
+- Languages: English, Korean
+- Knowledge of computer systems, c++, and digital system
+- Learn the Codes that require algorithms and mathematical calculations
+- Courses include: Problem Solving, Object-Oriented Design, Data Structure &
+Abstractions, Digital System
+- Create Video and Edit Video Skill
