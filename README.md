@@ -70,7 +70,6 @@
 ## 📫 연락처  
 📫 Let's Connect
 
-🔗 [LinkedIn]([www.linkedin.com/in/dongho-kim-64a0481b8](https://www.linkedin.com/in/dongho-kim-64a0481b8/?trk=public-profile-join-page))  
 📧 Email: line102784@gmail.com
 
 
